@@ -29,9 +29,18 @@
 
 ## Ссылки на проекты:
 
-[Приложение для трекинга игровой активности](https://github.com/7Yuliya/gamingActivity)
+* [Приложение для трекинга игровой активности](https://github.com/7Yuliya/gamingActivity)
 
-[Сервис покупки тура](https://github.com/7Yuliya/JourneyOfTheDay)
+* [Сервис покупки тура](https://github.com/7Yuliya/JourneyOfTheDay)
+
+
+## Иные ссылки:
+
+* [Домашние работы по курсу Нетологии](https://github.com/7Yuliya/YVAleksina/blob/master/Homeworks.md)
+
+* [Сертификаты об обучении](https://github.com/7Yuliya/YVAleksina/tree/master/certificates)
+
+
 
 
 ## Контакты:
