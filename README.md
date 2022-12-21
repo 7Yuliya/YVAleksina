@@ -16,6 +16,7 @@
 * **Selenide**
 * **JavaFaker**
 * **Docker**
+* **AppVeyor**
 * **Allure Report**
 * **SQL (MySQL, PostgreSQL)**
 
@@ -39,7 +40,6 @@
 * [Домашние работы по курсу Нетологии](https://github.com/7Yuliya/YVAleksina/blob/master/Homeworks.md)
 
 * [Сертификаты об обучении](https://github.com/7Yuliya/YVAleksina/tree/master/certificates)
-
 
 
 
