@@ -32,9 +32,9 @@
 
 * [Курсовой проект: тестирование сайта крупной компании](https://docs.google.com/spreadsheets/d/14EwJCVZbsfdqth1fSTZdKqGGoXt0OX_WwP0xZKwZ6Cc/edit?usp=sharing)
 
-* [Приложение для трекинга игровой активности](https://github.com/7Yuliya/gamingActivity)
+* [Командный проект: тестирование и доработка рейтингового сервиса](https://github.com/7Yuliya/gamingActivity)
 
-* [Сервис покупки тура](https://github.com/7Yuliya/JourneyOfTheDay)
+* [Автоматизированное тестирование крупного веб-сервиса](https://github.com/7Yuliya/JourneyOfTheDay)
 
 
 ## Иные ссылки:
