@@ -11,15 +11,19 @@
 * **IntelliJ IDE**
 * **Git**
 * **JUnit**
+* **TestNG**
 * **Gradle**
 * **Maven**
 * **Lombok**
+* **Selenium**
 * **Selenide**
 * **JavaFaker**
+* **CI/CD**
 * **Docker**
 * **AppVeyor**
 * **Allure Report**
 * **SQL (MySQL, PostgreSQL)**
+* **Web**
 * **Linux**
 * **Bash**
 * **TCP/IP**
