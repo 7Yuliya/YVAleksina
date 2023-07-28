@@ -2,7 +2,8 @@
 
 ## Меня зовут Юлия, я Тестировщик ПО
 
-## Я закончила курсы Нетологии "Тестировщик ПО"
+## Я закончила курсы Нетологии "Тестировщик ПО","Linux и программирование на Bash"
+
 
 ## Hard skills:
 
@@ -19,6 +20,9 @@
 * **AppVeyor**
 * **Allure Report**
 * **SQL (MySQL, PostgreSQL)**
+* **Linux**
+* **Bash**
+* **TCP/IP**
 
 ## Soft skills:
 
@@ -27,6 +31,8 @@
 * Умение работать в команде;
 * Способность учиться и адаптироваться к изменениям
 
+## Тестовые задания:
+* [Тестовое задание для Junior QA Engineer (web)](https://docs.google.com/document/d/1dKbgDz9Pseazt8H2Mw4hguHz20aBnbIKWjGK5GjVw8E/edit?usp=sharing)
 
 ## Ссылки на проекты:
 
@@ -35,6 +41,8 @@
 * [Командный проект: тестирование и доработка рейтингового сервиса](https://github.com/7Yuliya/gamingActivity)
 
 * [Автоматизированное тестирование крупного веб-сервиса](https://github.com/7Yuliya/JourneyOfTheDay)
+
+* [Итоговая работа курса "Linux и программирование на Bash"](https://docs.google.com/document/d/1CjGxmvSPmNKQJybX6Vukz6JQ8K5MmybMijRVSDX8rUg/edit?usp=sharing)
 
 
 ## Иные ссылки:
@@ -48,5 +56,5 @@
 ## Контакты:
 
 * E-mail: u35353555@gmail.com
-* Telegram: @YuliyaAleksina
+* Telegram: https://t.me/YuliyaAleksina
 * WhatsApp: +7 994 423 76 78
